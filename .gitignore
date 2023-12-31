@@ -1,0 +1,9 @@
+*.env.*
+.env
+__pycache__
+.DS_Store
+inst_embeds.pkl
+myenv
+AzureEnv
+**/env2/
+**/myenv/
