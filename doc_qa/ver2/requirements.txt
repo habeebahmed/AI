@@ -1,0 +1,14 @@
+langchain
+tiktoken
+chromadb
+pypdf
+transformers
+InstructorEmbedding
+accelerate
+bitsandbytes
+sentencepiece
+Xformers
+scipy
+sentence_transformers
+fastapi[all]
+python-multipart
